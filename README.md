@@ -76,4 +76,10 @@
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
-|2025.05| Training Stage |[**Dimple**] Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding (@NUS)| [[pdf]](https://arxiv.org/pdf/2505.16990) |[[code]](https://github.com/yu-rp/Dimple)![](https://img.shields.io/github/stars/yu-rp/Dimple.svg?style=social) |arXiv|
+|2025.05| Training & Inference Stage |[**Dimple**] Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding (@NUS)| [[pdf]](https://arxiv.org/pdf/2505.16990) |[[code]](https://github.com/yu-rp/Dimple)![](https://img.shields.io/github/stars/yu-rp/Dimple.svg?style=social) |arXiv|
+|2025.12| Training Stage |[**SDAR-VL**] SDAR-VL: Stable and Efficient Block-wise Diffusion for Vision-Language Understanding (@ZJU)| [[pdf]](https://arxiv.org/pdf/2512.14068) |[[code]](https://github.com/JetAstra/SDAR-VL)![](https://img.shields.io/github/stars/JetAstra/SDAR-VL.svg?style=social) |arXiv|
+|2025.10| Inference Stage |[**Lumina-DiMOO**] Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding (@Shanghai AI Lab)| [[pdf]](https://arxiv.org/pdf/2510.06308) |[[code]](https://github.com/Alpha-VLLM/Lumina-DiMOO)![](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO.svg?style=social) |arXiv|
+|2025.11| Inference Stage |[**D3ToM**] D3ToM: Decider-Guided Dynamic Token Merging for Accelerating Diffusion MLLMs (@SJTU)| [[pdf]](https://arxiv.org/pdf/2511.12280) |[[code]](https://github.com/bcmi/D3ToM-Diffusion-MLLM)![](https://img.shields.io/github/stars/bcmi/D3ToM-Diffusion-MLLM.svg?style=social) |arXiv|
+|2025.11| Inference Stage |[**Token-Pruning**] A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models (@NTU)| [[pdf]](https://arxiv.org/pdf/2511.15098) | |arXiv|
+|2025.12| Inference Stage |[**Sparse-LaViDa**] Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models (@Adobe)| [[pdf]](https://arxiv.org/pdf/2512.14008) | |arXiv|
+
