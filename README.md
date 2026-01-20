@@ -23,7 +23,8 @@
 <div id="Training"></div>  
 
 |Date|Category|Title|Paper|Code|Venue|
-|:---:|:---|:---|:---:|:---:|:---:|  
+|:---:|:---|:---|:---:|:---:|:---:| 
+|2025.09| AR-to-block diffusion |[**SDLM**] Sequential Diffusion Language Models (@Shanghai AI Lab)  | [[pdf]](https://arxiv.org/pdf/2509.24007) |[[code]](https://github.com/OpenGVLab/SDLM) ![](https://img.shields.io/github/stars/OpenGVLab/SDLM.svg?style=social) |arXiv|
 |2025.10| AR-to-block diffusion |[**SDAR**] SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation (@Shanghai AI Lab)  | [[pdf]](https://arxiv.org/pdf/2510.06303) |[[code]](https://github.com/JetAstra/SDAR) ![](https://img.shields.io/github/stars/JetAstra/SDAR.svg?style=social) |arXiv|
 |2025.10| AR-to-diffusion |[**RND1**] RND1: Simple, Scalable AR-to-Diffusion Conversion (@Radical Numerics)  | [[pdf]](https://www.radicalnumerics.ai/assets/rnd1_report.pdf) |[[code]](https://github.com/RadicalNumerics/RND1) ![](https://img.shields.io/github/stars/RadicalNumerics/RND1.svg?style=social) |blog|
 |2025.07| AR-to-diffusion |[**Dream 7B**] Dream 7B: Diffusion Large Language Models (@HKU)  | [[pdf]](https://arxiv.org/pdf/2508.15487) |[[code]](https://github.com/DreamLM/Dream) ![](https://img.shields.io/github/stars/DreamLM/Dream.svg?style=social) |arXiv|
