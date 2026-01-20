@@ -38,7 +38,15 @@
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
-|2025.05| Architectural Paradigms |[**Fast-dLLM**] Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding (@NVIDIA)| [[pdf]](https://arxiv.org/pdf/2505.22618) |[[code]](https://github.com/NVlabs/Fast-dLLM)![](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social) |arXiv|
+|2025.03| Architecture Paradigms |[**Block Diffusion**] Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models (@Cornell)| [[pdf]](https://arxiv.org/pdf/2503.09573) |[[code]](https://github.com/kuleshov-group/bd3lms)![](https://img.shields.io/github/stars/kuleshov-group/bd3lms.svg?style=social) |ICLR 2025|
+|2025.05| Architecture Paradigms |[**Fast-dLLM**] Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding (@NVIDIA)| [[pdf]](https://arxiv.org/pdf/2505.22618) |[[code]](https://github.com/NVlabs/Fast-dLLM)![](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social) |arXiv|
+|2025.09| Architecture Paradigms |[**Fast-dLLM-v2**] Fast-dLLM v2: Efficient Block-Diffusion Large Language Model(@NVIDIA)| [[pdf]](https://arxiv.org/pdf/2509.26328) |[[code]](https://github.com/NVlabs/Fast-dLLM)![](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social) |arXiv|
+|2025.05| Adaptive Refresh Mechanisms |[**dKV-Cache**] dKV-Cache: The Cache for Diffusion Language Models (@NUS)| [[pdf]](https://arxiv.org/pdf/2505.15781) |[[code]](https://github.com/horseee/dKV-Cache)![](https://img.shields.io/github/stars/horseee/dKV-Cache.svg?style=social) |arXiv|
+|2025.06| Adaptive Refresh Mechanisms |[**dLLM-Cache**] dLLM-Cache: Accelerating Diffusion Large Language Models with Adaptive Caching (@SJTU)| [[pdf]](https://arxiv.org/pdf/2506.06295) |[[code]](https://github.com/maomaocun/dLLM-Cache)![](https://img.shields.io/github/stars/maomaocun/dLLM-Cache.svg?style=social) |arXiv|
+|2025.09| Adaptive Refresh Mechanisms |[**d$^2$Cache**] d$^2$Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching (@SEU)| [[pdf]](https://arxiv.org/pdf/2509.23094) |[[code]](https://github.com/Kamichanw/d2Cache)![](https://img.shields.io/github/stars/Kamichanw/d2Cache.svg?style=social) |arXiv|
+|2025.08| Memory Sparsity & Eviction |[**Sparse-dLLM**] Sparse-dLLM: Accelerating Diffusion LLMs with Dynamic Cache Eviction (@FDU)| [[pdf]](https://arxiv.org/pdf/2508.02558) |[[code]](https://github.com/OpenMOSS/Sparse-dLLM)![](https://img.shields.io/github/stars/OpenMOSS/Sparse-dLLM.svg?style=social) |arXiv|
+|2025.10| Memory Sparsity & Eviction |[**Elastic-Cache**] Attention Is All You Need for KV Cache in Diffusion LLMs (@MBZUAI)| [[pdf]](https://arxiv.org/pdf/2510.14973) |[[code]](https://github.com/VILA-Lab/Elastic-Cache)![](https://img.shields.io/github/stars/VILA-Lab/Elastic-Cache.svg?style=social) |arXiv|
+|2025.10| Memory Sparsity & Eviction |[**MaskKV**] Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference (@SJTU)| [[pdf]](https://arxiv.org/pdf/2510.09309) |[[code]](https://github.com/jianuo-huang/MaskKV)![](https://img.shields.io/github/stars/jianuo-huang/MaskKV.svg?style=social) |arXiv|
 
 
 ## 📙 Inference Acceleration | Compression Techniques
