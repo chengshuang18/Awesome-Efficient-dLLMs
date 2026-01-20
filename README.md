@@ -24,7 +24,7 @@
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
-|2025.07| AR-to-diffusion |[**Dream 7B**] Dream 7B: Diffusion Large Language Models (@HKU)  | [[pdf]](https://arxiv.org/pdf/2508.15487) |[[code]](https://github.com/DreamLM/Dream) ![](https://img.shields.io/github/stars/DreamLM/Dream.svg?style=social) |ArXiv|
+|2025.07| AR-to-diffusion |[**Dream 7B**] Dream 7B: Diffusion Large Language Models (@HKU)  | [[pdf]](https://arxiv.org/pdf/2508.15487) |[[code]](https://github.com/DreamLM/Dream) ![](https://img.shields.io/github/stars/DreamLM/Dream.svg?style=social) |arXiv|
 |2024.10| AR-to-diffusion |[**DiffuLLaMA**] Scaling Diffusion Language Models via Adaptation from Autoregressive Models (@HKU)  | [[pdf]](https://arxiv.org/pdf/2410.17891) |[[code]](https://github.com/HKUNLP/DiffuLLaMA) ![](https://img.shields.io/github/stars/HKUNLP/DiffuLLaMA.svg?style=social) |ICLR 2025|
 
 ## 📙 Inference Acceleration | Parallel Decoding
