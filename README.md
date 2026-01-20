@@ -24,8 +24,9 @@
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:| 
+|2025.12| AR-to-block diffusion |[**LLaDA2.0**] LLaDA2.0: Scaling Up Diffusion Language Models to 100B (@NVIDIA)  | [[pdf]](https://arxiv.org/pdf/2512.15745) | [[code]](https://github.com/inclusionAI/LLaDA2.0) ![](https://img.shields.io/github/stars/inclusionAI/LLaDA2.0.svg?style=social) |arXiv|
 |2025.12| AR-to-block diffusion |[**Efficient-DLM**] Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed (@NVIDIA)  | [[pdf]](https://arxiv.org/pdf/2512.14067) |  |arXiv|
-|2025.12| AR-to-block diffusion |[**Fast-dLLM v2**] Fast-dLLM v2: Efficient Block-Diffusion LLM (@NVIDIA)  | [[pdf]](https://arxiv.org/pdf/2509.26328) |[[code]](https://github.com/NVlabs/Fast-dLLM) ![](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social) |arXiv|
+|2025.09| AR-to-block diffusion |[**Fast-dLLM v2**] Fast-dLLM v2: Efficient Block-Diffusion LLM (@NVIDIA)  | [[pdf]](https://arxiv.org/pdf/2509.26328) |[[code]](https://github.com/NVlabs/Fast-dLLM) ![](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social) |arXiv|
 |2025.12| AR-to-block diffusion |[**NBDiff**] From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs (@Shanghai AI Lab)  | [[pdf]](https://arxiv.org/pdf/2512.06776) |[[code]](https://github.com/prajwal369/NBDiff) ![](https://img.shields.io/github/stars/prajwal369/NBDiff.svg?style=social) |arXiv|
 |2025.09| AR-to-block diffusion |[**SDLM**] Sequential Diffusion Language Models (@Shanghai AI Lab)  | [[pdf]](https://arxiv.org/pdf/2509.24007) |[[code]](https://github.com/OpenGVLab/SDLM) ![](https://img.shields.io/github/stars/OpenGVLab/SDLM.svg?style=social) |arXiv|
 |2025.10| AR-to-block diffusion |[**SDAR**] SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation (@Shanghai AI Lab)  | [[pdf]](https://arxiv.org/pdf/2510.06303) |[[code]](https://github.com/JetAstra/SDAR) ![](https://img.shields.io/github/stars/JetAstra/SDAR.svg?style=social) |arXiv|
