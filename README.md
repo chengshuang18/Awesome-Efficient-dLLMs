@@ -25,7 +25,7 @@
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:| 
 |2025.12| AR-to-block diffusion |[**FEfficient-DLM**] Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed
- (@NVIDIA)  | [[pdf]](https://arxiv.org/pdf/2512.14067) | |arXiv|
+ (@NVIDIA)  | [[pdf]](https://arxiv.org/pdf/2512.14067) | as |arXiv|
 |2025.12| AR-to-block diffusion |[**Fast-dLLM v2**] Fast-dLLM v2: Efficient Block-Diffusion LLM
  (@NVIDIA)  | [[pdf]](https://arxiv.org/pdf/2509.26328) |[[code]](https://github.com/NVlabs/Fast-dLLM) ![](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social) |arXiv|
 |2025.12| AR-to-block diffusion |[**NBDiff**] From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs
