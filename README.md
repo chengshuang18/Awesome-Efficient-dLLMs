@@ -52,6 +52,10 @@
 |2025.06| Heuristic Methods |[**WINO**] Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs (@SJTU) | [[pdf]](https://arxiv.org/pdf/2509.00707) | [[code]](https://github.com/Feng-Hong/WINO-DLLM)![](https://img.shields.io/github/stars/Feng-Hong/WINO-DLLM?style=social)|arXiv|
 |2025.12| Heuristic Methods |[**LoPA**] LoPA: Scaling dLLM Inference via Lookahead Parallel Decoding (@SJTU) | [[pdf]](https://arxiv.org/pdf/2512.16229) | [[code]](https://github.com/SJTU-DENG-Lab/LoPA)![](https://img.shields.io/github/stars/SJTU-DENG-Lab/LoPA?style=social)|arXiv|
 |2025.10| Heuristic Methods |[**FreeDave**] Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models (@UW-Madison) | [[pdf]](https://arxiv.org/pdf/2510.00294) | [[code]](https://github.com/cychomatica/FreeDave)![](https://img.shields.io/github/stars/cychomatica/FreeDave?style=social)|arXiv|
+|2025.09| Learning-based Methods |[**dParallel**] dparallel: Learnable parallel decoding for dllms (@NUS) | [[pdf]](https://arxiv.org/pdf/2509.26488) | [[code]](https://github.com/czg1225/dParallel)![](https://img.shields.io/github/stars/czg1225/dParallel?style=social)|arXiv|
+|2025.09| Learning-based Methods |[**LSD**] Learnable sampler distillation for discrete diffusion models (@UESTC) | [[pdf]](https://arxiv.org/pdf/2509.19962) | [[code]](https://github.com/feiyangfu/LSD)![](https://img.shields.io/github/stars/feiyangfu/LSD?style=social)|NeurIPS 2025|
+|2025.09| Learning-based Methods |[**ADJUST**] Enabling Approximate Joint Sampling in Diffusion LMs (@UT-Austin) | [[pdf]](https://arxiv.org/pdf/2509.22738) | |arXiv|
+|2025.12| Learning-based Methods | Learning Unmasking Policies for Diffusion Language Models (@Apple) | [[pdf]](https://arxiv.org/pdf/2512.09106) | |arXiv|
 
 ## 📙 Inference Acceleration | Cache Management
 
