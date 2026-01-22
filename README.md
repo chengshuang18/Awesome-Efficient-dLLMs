@@ -4,18 +4,29 @@
 [![Stars](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs?style=social)](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs?style=social)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
+[![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs/files/Efficient_dLLMs.pdf)
 
 
 
 📒A curated list of Awesome **Efficient Diffusion Language Models** Papers with codes.
 
 
+<p align="center">
+    <img src="images/taxonomy.png" width="100%" style="align:center;"/>
+</p>
 
-## ©️Citations 
 
-```BibTeX
+## 🤖Contents
 
-```
+- [📙Training Efficiency ](#Training)
+- [📙Inference Acceleration | Parallel Decoding](#Parallel)
+- [📙Inference Acceleration | Cache Management](#Cache)
+- [📙Inference Acceleration | Compression Techniques](#Compression)
+- [📙Contextual Scalability | Variable Length](#Variable)
+- [📙Contextual Scalability | Long Context](#Long)
+- [📙System Framework](#Framework)
+- [📙Multimodal DLM](#MDLM)
+
 
 
 ## 📙 Training Efficiency  
@@ -38,6 +49,11 @@
 
 
 ## 📙 Inference Acceleration | Parallel Decoding
+<div id="Parallel"></div> 
+
+<p align="center">
+    <img src="images/parallel.png" width="100%" style="align:center;"/>
+</p>
  
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
@@ -59,6 +75,11 @@
 |2025.12| Learning-based Methods | Learning Unmasking Policies for Diffusion Language Models (@Apple) | [[pdf]](https://arxiv.org/pdf/2512.09106) | |arXiv|
 
 ## 📙 Inference Acceleration | Cache Management
+<div id="Cache"></div> 
+
+<p align="center">
+    <img src="images/cache.png" width="100%" style="align:center;"/>
+</p>
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
@@ -74,6 +95,7 @@
 
 
 ## 📙 Inference Acceleration | Compression Techniques
+<div id="Compression"></div> 
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
@@ -95,6 +117,7 @@
 
 
 ## 📙 Contextual Scalability | Variable Length
+<div id="Variable"></div> 
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
@@ -110,6 +133,7 @@
 
 
 ## 📙 Contextual Scalability | Long Context
+<div id="Long"></div> 
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
@@ -125,10 +149,12 @@
 
 
 ## 📙 System Framework
+<div id="Framework"></div> 
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
 |2025.10| Pre-training \& evaluation |[**dllm**] dLLM: Simple Diffusion Language Modeling (@UCB)|  |[[code]](https://github.com/ZHZisZZ/dllm)![](https://img.shields.io/github/stars/ZHZisZZ/dllm.svg?style=social) |GitHub|
+|2025.10| Evaluation |[**Latency**] How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices (@RUC)| [[pdf]](https://arxiv.org/pdf/2510.18480) | |arXiv|
 |2025.12| Post-training |[**DiRL**] An Efficient Post-Training Framework for Diffusion Language Models (@FDU)| [[pdf]](https://arxiv.org/pdf/2512.22234) |[[code]](https://github.com/OpenMOSS/DiRL)![](https://img.shields.io/github/stars/OpenMOSS/DiRL.svg?style=social) |arXiv|
 |2025.10| Serving |[**dInfer**] dInfer: An Efficient Inference Framework for Diffusion Language Models (@Ant)| [[pdf]](https://arxiv.org/pdf/2510.08666) |[[code]](https://github.com/inclusionAI/dInferL)![](https://img.shields.io/github/stars/inclusionAI/dInfer.svg?style=social) |arXiv|
 |2025.12| Serving |[**dLLM-Serve**] Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving (@Virginia Tech)| [[pdf]](https://arxiv.org/pdf/2512.17077) |[[code]](https://github.com/chosen-ox/dLLM-Serve)![](https://img.shields.io/github/stars/chosen-ox/dLLM-Serve.svg?style=social) |arXiv|
@@ -137,6 +163,7 @@
 
 
 ## 📙 Multimodal DLM
+<div id="MDLM"></div> 
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
@@ -147,3 +174,16 @@
 |2025.11| Inference Stage |[**Token-Pruning**] A Comprehensive Study on Visual Token Redundancy for Discrete Diffusion-based Multimodal Large Language Models (@NTU)| [[pdf]](https://arxiv.org/pdf/2511.15098) | |arXiv|
 |2025.12| Inference Stage |[**Sparse-LaViDa**] Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models (@Adobe)| [[pdf]](https://arxiv.org/pdf/2512.14008) | |arXiv|
 
+
+
+## ©️Citations 
+
+```BibTeX
+@article{lin2026efficient,
+  title   = {Efficient Diffusion Language Models: A Comprehensive Survey},
+  author  = {Lin Haokun, and Jia Xinle, and Liu Shaozhen, and Xia Shujun, and Huang Weitao, and Xu Haobo, and Li Junyang, and Xiao Yicheng, and Xing Xingrun, and Guo Ziyu, and Zhang Renrui, and Li Qi, and Wu Yichen, and Wang Renzhen, and Qi Xiaojuan, and Shan Caifeng, and Li Hongsheng, and Sun Zhenan},
+  journal = {Authorea Preprints},
+  year    = {2026},
+  publisher={Authorea},
+}
+```
