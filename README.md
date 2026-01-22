@@ -128,7 +128,11 @@
 
 |Date|Category|Title|Paper|Code|Venue|
 |:---:|:---|:---|:---:|:---:|:---:|  
+|2025.10| Pre-training \& evaluation |[**dllm**] dLLM: Simple Diffusion Language Modeling (@UCB)|  |[[code]](https://github.com/ZHZisZZ/dllm)![](https://img.shields.io/github/stars/ZHZisZZ/dllm.svg?style=social) |GitHub|
 |2025.12| Post-training |[**DiRL**] An Efficient Post-Training Framework for Diffusion Language Models (@FDU)| [[pdf]](https://arxiv.org/pdf/2512.22234) |[[code]](https://github.com/OpenMOSS/DiRL)![](https://img.shields.io/github/stars/OpenMOSS/DiRL.svg?style=social) |arXiv|
+|2025.10| Serving |[**dInfer**] dInfer: An Efficient Inference Framework for Diffusion Language Models (@Ant)| [[pdf]](https://arxiv.org/pdf/2510.08666) |[[code]](https://github.com/inclusionAI/dInferL)![](https://img.shields.io/github/stars/inclusionAI/dInfer.svg?style=social) |arXiv|
+|2025.12| Serving |[**dLLM-Serve**] Taming the Memory Footprint Crisis: System Design for Production Diffusion LLM Serving (@Virginia Tech)| [[pdf]](https://arxiv.org/pdf/2512.17077) |[[code]](https://github.com/chosen-ox/dLLM-Serve)![](https://img.shields.io/github/stars/chosen-ox/dLLM-Serve.svg?style=social) |arXiv|
+|2025.12| Serving |[**SGLang**] Power Up Diffusion LLMs: Day‑0 Support for LLaDA 2.0 (@SGLang)| [[blog]](https://lmsys.org/blog/2025-12-19-diffusion-llm/) |[[code]](https://github.com/sgl-project/sglang)![](https://img.shields.io/github/stars/sgl-project/sglang.svg?style=social) |arXiv|
 
 
 
