@@ -1,10 +1,10 @@
 # Awesome-Efficient-dLLMs
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs)
-[![Stars](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs?style=social)](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs?style=social)
+[![Stars](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
-[![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs/files/Efficient_dLLMs.pdf)
+[![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf)
 
 
 
