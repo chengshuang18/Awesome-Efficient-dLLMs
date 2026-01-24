@@ -4,6 +4,7 @@
 [![Stars](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
+[![Paper](https://img.shields.io/badge/Authorea-Preprint-turquoise.svg)](https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey)
 [![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf)
 
 
