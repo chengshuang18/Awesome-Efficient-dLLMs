@@ -76,6 +76,7 @@
 |2025.09| Learning-based Methods |[**dParallel**] dparallel: Learnable parallel decoding for dllms (@NUS) | [[pdf]](https://arxiv.org/pdf/2509.26488) | [[code]](https://github.com/czg1225/dParallel)![](https://img.shields.io/github/stars/czg1225/dParallel?style=social)|arXiv|
 |2025.09| Learning-based Methods |[**LSD**] Learnable sampler distillation for discrete diffusion models (@UESTC) | [[pdf]](https://arxiv.org/pdf/2509.19962) | [[code]](https://github.com/feiyangfu/LSD)![](https://img.shields.io/github/stars/feiyangfu/LSD?style=social)|NeurIPS 2025|
 |2025.09| Learning-based Methods |[**ADJUST**] Enabling Approximate Joint Sampling in Diffusion LMs (@UT-Austin) | [[pdf]](https://arxiv.org/pdf/2509.22738) | |arXiv|
+|2025.09| Learning-based Methods |[**Learn2PD**] Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding (@UCF)| [[pdf]](https://arxiv.org/pdf/2509.25188) | [[code]](https://github.com/ims-kdks/Learning-to-Parallel-Decoding)![](https://img.shields.io/github/stars/ims-kdks/Learning-to-Parallel-Decoding.svg?style=social) |arXiv|
 |2025.12| Learning-based Methods | Learning Unmasking Policies for Diffusion Language Models (@Apple) | [[pdf]](https://arxiv.org/pdf/2512.09106) | |arXiv|
 |2026.01| Learning-based Methods |[**d3LLM**] d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation (@UCSD)| [[pdf]](https://arxiv.org/pdf/2601.07568) |[[code]](https://github.com/hao-ai-lab/d3LLM)![](https://img.shields.io/github/stars/hao-ai-lab/d3LLM.svg?style=social) |arXiv|
 
