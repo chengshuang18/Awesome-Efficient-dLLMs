@@ -4,8 +4,8 @@
 [![Stars](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)](https://img.shields.io/github/stars/FelixMessi/Awesome-Efficient-dLLMs.svg?style=social)
 [![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC--BY--NC--ND%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![PRWelcome](https://img.shields.io/badge/PRs-Welcome-red)](https://img.shields.io/badge/PRs-Welcome-red)
-[![Paper](https://img.shields.io/badge/Authorea-Preprint-turquoise.svg)](https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey)
 [![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf)
+[![Paper](https://img.shields.io/badge/Authorea-Preprint-turquoise.svg)](https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey)
 
 
 
@@ -19,14 +19,17 @@
 
 ## 🤖Contents
 
-- [📙Training Efficiency ](#Training)
-- [📙Inference Acceleration | Parallel Decoding](#Parallel)
-- [📙Inference Acceleration | Cache Management](#Cache)
-- [📙Inference Acceleration | Compression Techniques](#Compression)
-- [📙Contextual Scalability | Variable Length](#Variable)
-- [📙Contextual Scalability | Long Context](#Long)
-- [📙System Framework](#Framework)
-- [📙Multimodal DLM](#MDLM)
+- [Awesome-Efficient-dLLMs](#awesome-efficient-dllms)
+  - [🤖Contents](#contents)
+  - [📙 Training Efficiency](#-training-efficiency)
+  - [📙 Inference Acceleration | Parallel Decoding](#-inference-acceleration--parallel-decoding)
+  - [📙 Inference Acceleration | Cache Management](#-inference-acceleration--cache-management)
+  - [📙 Inference Acceleration | Compression Techniques](#-inference-acceleration--compression-techniques)
+  - [📙 Contextual Scalability | Variable Length](#-contextual-scalability--variable-length)
+  - [📙 Contextual Scalability | Long Context](#-contextual-scalability--long-context)
+  - [📙 System Framework](#-system-framework)
+  - [📙 Multimodal DLM](#-multimodal-dlm)
+  - [©️Citations](#️citations)
 
 
 
