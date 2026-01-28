@@ -8,8 +8,11 @@
 [![Paper](https://img.shields.io/badge/Authorea-Preprint-turquoise.svg)](https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey)
 
 
-
 📒A curated list of Awesome **Efficient Diffusion Language Models** Papers with codes.
+
+<p align="center">
+    <img src="images/meta.png" width="100%" style="align:center;"/>
+</p>
 
 
 <p align="center">
@@ -118,9 +121,7 @@
 |2025.06| Speculative Decoding - dLLM-AR Synergy |[**APD**] Accelerating Diffusion LLMs via Adaptive Parallel Decoding (@UCLA)| [[pdf]](https://arxiv.org/pdf/2506.00413) | |arXiv|
 |2025.09| Speculative Decoding - dLLM-AR Synergy |[**Learn2PD**] Learning to Parallel: Accelerating Diffusion Large Language Models via Learnable Parallel Decoding (@UCF)| [[pdf]](https://arxiv.org/pdf/2509.25188) | [[code]](https://github.com/ims-kdks/Learning-to-Parallel-Decoding)![](https://img.shields.io/github/stars/ims-kdks/Learning-to-Parallel-Decoding.svg?style=social) |ICLR 2026|
 |2025.10| Speculative Decoding - dLLM-AR Synergy |[**DiffuSpec**] DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding (@THU)| [[pdf]](https://arxiv.org/pdf/2510.02358) | |arXiv|
-|2025.11| Speculative Decoding - dLLM-AR Synergy |[**SpecDiff-2**] SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding (@Virginia)| [[pdf]](https://arxiv.org/pdf/2511.00606) | |arXiv|
 |2025.12| Speculative Decoding - dLLM-AR Synergy |[**DEER**] DEER: Draft with Diffusion, Verify with Autoregressive Models (@THU)| [[pdf]](https://arxiv.org/pdf/2512.15176) | [[code]](https://github.com/czc726/DEER)![](https://img.shields.io/github/stars/czc726/DEER.svg?style=social) |arXiv|
-|2025.12| Speculative Decoding - dLLM-AR Synergy |[**FailFast**] Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs (@Princeton)| [[pdf]](https://arxiv.org/pdf/2512.20573) | [[code]](https://github.com/ruipeterpan/failfast)![](https://img.shields.io/github/stars/ruipeterpan/failfast.svg?style=social) |arXiv|
 |2026.01| Speculative Decoding - dLLM-AR Synergy |[**DFlash**] DFlash: Block Diffusion for Flash Speculative Decoding (@UCSD)| | [[code]](https://github.com/z-lab/dflash)![](https://img.shields.io/github/stars/z-lab/dflash.svg?style=social) |GitHub|
 
 
