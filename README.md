@@ -7,7 +7,7 @@
 [![PDF](https://img.shields.io/badge/Paper-PDF-pdf.svg)](https://github.com/FelixMessi/Awesome-Efficient-dLLMs/blob/main/files/Efficient_dLLMs.pdf)
 [![Paper](https://img.shields.io/badge/Authorea-Preprint-turquoise.svg)](https://www.authorea.com/users/1021451/articles/1381451-efficient-diffusion-language-models-a-comprehensive-survey)
 
-
+!(meta.png)
 
 📒A curated list of Awesome **Efficient Diffusion Language Models** Papers with codes.
 
