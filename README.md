@@ -10,16 +10,6 @@
 
 📒A curated list of Awesome **Efficient Diffusion Language Models** Papers with codes.
 
-<p align="center">
-    <img src="images/meta.png" width="100%" style="align:center;"/>
-</p>
-
-
-<p align="center">
-    <img src="images/taxonomy.png" width="100%" style="align:center;"/>
-</p>
-
-
 ## 🤖Contents
 
 - [Awesome-Efficient-dLLMs](#awesome-efficient-dllms)
@@ -35,7 +25,13 @@
   - [©️Citations](#️citations)
 
 
+## 📙 Reinformance Learning
+<div id="RL"></div>  
+|Date|Title|Paper|Code|Venue|
+|:---:|:---|:---|:---:|:---:| 
+|2024.10|[**D1**] | [[pdf]](https://arxiv.org/pdf/2504.12216) |[[code]](https://github.com/dllm-reasoning/d1) ||
 
+https://github.com/dllm-reasoning/d1
 ## 📙 Training Efficiency  
 
 <div id="Training"></div>  
