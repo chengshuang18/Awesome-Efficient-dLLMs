@@ -27,11 +27,12 @@
 
 ## 📙 Reinformance Learning
 <div id="RL"></div>  
-|Date|Title|Paper|Code|Venue|
-|:---:|:---|:---|:---:|:---:| 
-|2024.10|[**D1**] | [[pdf]](https://arxiv.org/pdf/2504.12216) |[[code]](https://github.com/dllm-reasoning/d1) ||
 
-https://github.com/dllm-reasoning/d1
+| Date   | Title | Paper | Code | Venue |
+|:------:|:------|:-----:|:----:|:-----:|
+| 2024.10 | **D1** | [[pdf]](https://arxiv.org/pdf/2504.12216) | [[code]](https://github.com/dllm-reasoning/d1) |  |
+
+
 ## 📙 Training Efficiency  
 
 <div id="Training"></div>  
