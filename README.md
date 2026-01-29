@@ -28,9 +28,9 @@
 ## 📙 Reinformance Learning
 <div id="RL"></div>  
 
-| Date   | Title | Paper | Code | Venue |
-|:------:|:------|:-----:|:----:|:-----:|
-| 2024.10 | **D1** | [[pdf]](https://arxiv.org/pdf/2504.12216) | [[code]](https://github.com/dllm-reasoning/d1) |  |
+| Date   | Title | Paper | Code | Venue |Summary |
+|:------:|:------|:-----:|:----:|:-----:|:-----:|
+| 2024.10 | [**D1**] d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning | [[pdf]](https://arxiv.org/pdf/2504.12216) | [[code]](https://github.com/dllm-reasoning/d1) |  | |
 
 
 ## 📙 Training Efficiency  
